@@ -58,7 +58,7 @@ b. 执行 git checkout TAG切换到最新版本，（如 git checkout v2.3.1）
 * 编译
  
 ```
-$ make
+$ make pika
 ```
 
 > note: 若编译过程中，提示有依赖的库没有安装，则有提示安装后再重新编译
@@ -88,7 +88,7 @@ b. 执行 git checkout TAG切换到最新版本，（如 git checkout v2.3.1）
 
 * 编译
 ```
-$ make
+$ make pika
 ```
 
 > note: 若编译过程中，提示有依赖的库没有安装，则有提示安装后再重新编译
